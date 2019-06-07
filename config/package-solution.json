@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "tiles-webpart-19-client-side-solution",
+    "id": "14d0eb06-3be1-4a54-90ba-5dd9f3b226d7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/tiles-webpart-19.sppkg"
+  }
+}
